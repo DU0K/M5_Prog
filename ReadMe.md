@@ -5,6 +5,9 @@ Ik heb hier een action event gebruikt om tussen scripts te comminuseren om onder
 ![img](./Les4.png)
 Ik heb elke functie een appart script gegeven
 
+![img](./Les4B.png)
+Ik heb de movement code samengevoegd in 1 script en een public bool gemaakt  zodat ik in de inspector kan kiezen of hij player input moet gebruiken
+
 ![gif](./Les5.gif)
 Ik heb een Enemyscript gemaakt die de enemy laat bewegen en doodgaan.
 de variable van de snelheid en levens worden ingesteld via hun specifike child script (Giant en Elf)

@@ -1,15 +1,8 @@
 using UnityEngine;
 
-public class ShipMovement : MonoBehaviour
+public class ShipRotation : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float rotationSpeed = 25f;
-
-    public float MoveSpeed
-    {
-        get => moveSpeed;
-        set => moveSpeed = value;
-    }
 
     public float RotationSpeed
     {
@@ -18,14 +11,8 @@ public class ShipMovement : MonoBehaviour
     }
 
     void Update()
-    {
-        Move();
+    {;
         Rotate();
-    }
-
-    void Move()
-    {
-        transform.position = transform.position + transform.forward * moveSpeed * Input.GetAxis("Vertical") * Time.deltaTime;
     }
 
     void Rotate()

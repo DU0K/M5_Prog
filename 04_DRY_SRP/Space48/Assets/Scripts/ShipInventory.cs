@@ -9,13 +9,15 @@ public class ShipInventory : MonoBehaviour
     
     private List<Color> items = new List<Color>();
     private int activeItemIndex = -1;
-    private ShipMovement movement;
+    private ShipRotation shipRotation;
+    private Movement movement;
     private ShipWeapon weapon;
     private ShipUI ui;
 
     void Start()
     {
-        movement = GetComponent<ShipMovement>();
+        movement = GetComponent<Movement>();
+        shipRotation = GetComponent<ShipRotation>();
         weapon = GetComponent<ShipWeapon>();
         ui = GetComponent<ShipUI>();
     }
@@ -77,7 +79,7 @@ public class ShipInventory : MonoBehaviour
             if (items[activeItemIndex] == Color.blue)
             {
                 ui.TriggerMessage("+ Move Speed");
-                movement.MoveSpeed += 5;
+                movement.moveSpeed += 5;
             }
             else if (items[activeItemIndex] == Color.red)
             {
@@ -87,7 +89,7 @@ public class ShipInventory : MonoBehaviour
             else if (items[activeItemIndex] == Color.green)
             {
                 ui.TriggerMessage("+ Rotation Speed");
-                movement.RotationSpeed += 10;
+                shipRotation.RotationSpeed += 10;
             }
 
             items.RemoveAt(activeItemIndex);

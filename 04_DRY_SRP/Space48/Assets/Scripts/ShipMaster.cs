@@ -1,6 +1,7 @@
 using UnityEngine;
 
-[RequireComponent(typeof(ShipMovement))]
+[RequireComponent(typeof(Movement))]
+[RequireComponent(typeof(ShipRotation))]
 [RequireComponent(typeof(ShipWeapon))]
 [RequireComponent(typeof(ShipInventory))]
 [RequireComponent(typeof(ShipUI))]
