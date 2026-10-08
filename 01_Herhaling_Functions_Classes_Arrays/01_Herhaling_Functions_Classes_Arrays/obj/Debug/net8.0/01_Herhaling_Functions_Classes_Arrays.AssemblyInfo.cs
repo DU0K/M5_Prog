@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_Herhaling_Functions_Classes_Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab81c2f77f7419917e83df2e1b1f9033d3f5f26c")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_Herhaling_Functions_Classes_Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_Herhaling_Functions_Classes_Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

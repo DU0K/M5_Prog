@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\",
+  "WorkspaceRootPath": "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B190A6F6-F020-48CD-AE81-B905FB219612}|01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj|c:\\users\\svenb\\documents\\school-j2\\prog\\henraad\\01_herhaling_functions_classes_arrays\\01_herhaling_functions_classes_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B190A6F6-F020-48CD-AE81-B905FB219612}|01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj|c:\\users\\svenb\\documents\\school\\school 26-27\\prog\\henraad\\01_herhaling_functions_classes_arrays\\01_herhaling_functions_classes_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B190A6F6-F020-48CD-AE81-B905FB219612}|01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj|solutionrelative:01_herhaling_functions_classes_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\Program.cs",
               "RelativeDocumentMoniker": "01_Herhaling_Functions_Classes_Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\Program.cs",
               "RelativeToolTip": "01_Herhaling_Functions_Classes_Arrays\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T10:33:40.831Z",
               "EditorCaption": ""

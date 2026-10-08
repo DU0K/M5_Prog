@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj": {}
+    "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj": {
+    "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj",
         "projectName": "01_Herhaling_Functions_Classes_Arrays",
-        "projectPath": "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj",
+        "projectPath": "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays.csproj",
         "packagesPath": "C:\\Users\\svenb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svenb\\Documents\\School-J2\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\obj\\",
+        "outputPath": "C:\\Users\\svenb\\Documents\\School\\School 26-27\\Prog\\Henraad\\01_Herhaling_Functions_Classes_Arrays\\01_Herhaling_Functions_Classes_Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
