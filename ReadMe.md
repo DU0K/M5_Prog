@@ -1,4 +1,5 @@
 ![gif](./Les1A.jpeg)
+![gif](./Les1B.jpg)
 
 ![gif](./Les2.gif)
 Ik heb hier een action event gebruikt om tussen scripts te comminuseren om onderandere aan de ui manager door tegeven dat hij een message moet showen wanneer de speler alle candy heeft
